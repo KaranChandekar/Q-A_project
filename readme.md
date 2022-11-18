@@ -3,12 +3,6 @@
 
 I created simple Q & A project using html, css and javascript.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
