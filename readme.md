@@ -1,5 +1,5 @@
 
-# Q and A
+# QnA
 
 I created simple Q & A project using html, css and javascript.
 
